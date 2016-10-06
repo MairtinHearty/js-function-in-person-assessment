@@ -1,4 +1,5 @@
 var assert = require('chai')
+var assert = require('chai')
   .assert;
 var fn = require('../function.js');
 var key = getKey();

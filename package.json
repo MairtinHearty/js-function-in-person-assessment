@@ -1,12 +1,12 @@
 {
-  "name": "js-function-drill",
+  "name": "js-function-assessment",
   "version": "1.0.0",
-  "description": "Javascript function drills",
+  "description": "Javascript function assessment",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Marc Majcher",
+  "author": "Oli Treadwell",
   "license": "ISC",
   "dependencies": {
     "chai": "^3.5.0",
